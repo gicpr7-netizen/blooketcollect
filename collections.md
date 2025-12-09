@@ -1,3 +1,7 @@
+<title>Collections</title>
+
+[☑ Show Retired Blooks](withoutretire)
+
 # Wonderland Pack
 
 <img src="https://ac.blooket.com/marketassets/blooks/twoofspades.svg" alt="Two of Spades" width="50px">  <img src="https://ac.blooket.com/marketassets/blooks/eatme.svg" alt="Eat Me" width="50px">  <img src="https://ac.blooket.com/marketassets/blooks/drinkme.svg" alt="Drink Me" width="50px">  <img src="https://ac.blooket.com/marketassets/blooks/alice.svg" alt="Alice" width="50px">  <img src="https://ac.blooket.com/marketassets/blooks/queenofhearts.svg" alt="Queen of Hearts" width="50px">  <img src="https://ac.blooket.com/marketassets/blooks/dormouse.svg" alt="Dormouse" width="50px">  <img src="https://ac.blooket.com/marketassets/blooks/whiterabbit.svg" alt="White Rabbit" width="50px">  <img src="https://ac.blooket.com/marketassets/blooks/cheshirecat.svg" alt="Cheshire Cat" width="50px">  <img src="https://ac.blooket.com/marketassets/blooks/caterpillar.svg" alt="Caterpillar" width="50px">  <img src="https://ac.blooket.com/marketassets/blooks/madhatter.svg" alt="Mad Hatter" width="50px">  <img src="https://ac.blooket.com/marketassets/blooks/kingofhearts.svg" alt="King of Hearts" width="50px">  <img src="https://ac.blooket.com/marketassets/blooks/wisecaterpillar.svg" alt="Wise Caterpillar" width="50px">
