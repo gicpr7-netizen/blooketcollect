@@ -1,3 +1,1 @@
-# Home
-
-<iframe src="collections">
+<meta http-equiv="refresh" content="0; url=collections" />
