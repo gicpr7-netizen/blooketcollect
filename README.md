@@ -1,1 +1,1 @@
-<meta http-equiv="refresh" content="0; url=collections" />
+<meta http-equiv="refresh" content="0; url=withoutretire" />
