@@ -1,4 +1,3 @@
 # Home
 
-* [All Collections](collections)
-* [Without Retired Collections](withoutretire)
+<iframe src="collections">
